@@ -1,0 +1,7 @@
+{
+  "name": "poc-bluetooth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
